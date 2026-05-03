@@ -50,10 +50,11 @@
 
 ---
 
-<!-- 极简版 GitHub 统计卡片，minimal 主题，淡雅配色 -->
+<!-- 国内稳定版统计卡片，淡雅风格 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likepythontoo&show_icons=true&theme=minimal&hide_title=true&hide_border=true" alt="GitHub 统计" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=likepythontoo&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=ffffff&text_color=64748b&icon_color=84cc16" alt="GitHub 统计" width="400" />
 </p>
+
 
 ---
 
