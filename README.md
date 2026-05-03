@@ -50,6 +50,13 @@
 
 ---
 
+<!-- 极简版 GitHub 统计卡片，minimal 主题，淡雅配色 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=likepythontoo&show_icons=true&theme=minimal&hide_title=true&hide_border=true" alt="GitHub 统计" width="400" />
+</p>
+
+---
+
 ## 💬 碎碎念
 > 2026.05.03：今天把仓库整理了下，终于不用在一堆文件里瞎找了！
 > 
@@ -59,3 +66,9 @@
 
 ### 🎉 随便写的结尾
 反正这个仓库就是我自己的后花园，想咋造咋造，如果你偶然点进来，随便看看就行～
+
+---
+
+<p align="center">
+  <sub>Made with 💚 by coco | 个人仓库，随缘更新</sub>
+</p>
