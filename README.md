@@ -42,10 +42,12 @@
 
 ## 📊 仓库小数据
 <!-- 不用太专业，看着好玩就行 -->
-![仓库大小](https://img.shields.io/github/repo-size/你的用户名/你的仓库名?style=for-the-badge&color=blueviolet)
-![最后更新](https://img.shields.io/github/last-commit/你的用户名/你的仓库名?style=for-the-badge&color=orange)
-![访问量](https://views.whatilearened.today/views/github/你的用户名/你的仓库名.svg?style=for-the-badge)
-
+![仓库大小](https://img.shields.io/github/repo-size/likepythontoo/coco?style=for-the-badge&color=blueviolet)
+![最后更新](https://img.shields.io/github/last-commit/likepythontoo/coco?style=for-the-badge&color=orange)
+![访问量](https://views.whatilearened.today/views/github/likepythontoo/coco.svg?style=for-the-badge)
+![摸鱼中](https://img.shields.io/badge/状态-摸鱼中-green?style=for-the-badge)
+![代码能跑就行](https://img.shields.io/badge/代码-能跑就行-red?style=for-the-badge)
+![咖啡消耗](https://img.shields.io/badge/咖啡消耗-3杯-orange?style=for-the-badge)
 ---
 
 ## 💬 碎碎念
