@@ -50,11 +50,24 @@
 
 ---
 
-<!-- 国内稳定版统计卡片，淡雅风格 -->
+## 📈 观看人数增长曲线
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likepythontoo&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=ffffff&text_color=64748b&icon_color=84cc16" alt="GitHub 统计" width="400" />
+  <img src="watchers-growth.svg" width="80%" alt="Watchers Growth Curve" />
+</p>
+---
+
+---
+
+## 📊 仓库实时统计
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likepythontoo&repo=coco&theme=minimal&hide_border=true&show_owner=true" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/watchers/likepythontoo/coco?style=flat-square&color=64748b&label=观看人数" />
+  <img src="https://img.shields.io/github/stars/likepythontoo/coco?style=flat-square&color=84cc16&label=星标数" />
+  <img src="https://img.shields.io/github/forks/likepythontoo/coco?style=flat-square&color=60a5fa&label=Fork数" />
+</p>
 
 ---
 
