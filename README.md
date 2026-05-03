@@ -5,49 +5,49 @@
 ---
 
 ## 📑 仓库内容速览
-<!-- 按你自己的分类改就行，找不到内容时看这里就够了 -->
+<!-- 没建文件夹的话，先把方括号和链接去掉，改成纯文字就行 -->
 <details>
 <summary>🔧 代码测试类</summary>
 
-- [Python 小脚本测试](./python-demos/)
-- [前端瞎写的页面](./frontend-tests/)
-- [Shell 命令踩坑](./shell-notes/)
+- Python 小脚本测试
+- 前端瞎写的页面
+- Shell 命令踩坑
 </details>
 
 <details>
 <summary>📝 文档笔记类</summary>
 
-- [学习笔记汇总](./study-notes/)
-- [生活碎碎念](./life-rants/)
-- [各种踩坑记录](./pitfalls/)
+- 学习笔记汇总
+- 生活碎碎念
+- 各种踩坑记录
 </details>
 
 <details>
 <summary>🎮 瞎玩瞎搞类</summary>
 
-- [GitHub 装饰试验](./github-decor/)
-- [奇怪的代码片段](./weird-code/)
+- GitHub 装饰试验
+- 奇怪的代码片段
 </details>
 
 ---
 
 ## 🚧 近期瞎搞的东西
-<!-- 相当于你的个人TODO，打开仓库就知道接下来要干啥 -->
 - [ ] 测试一下 GitHub Actions 自动跑脚本
 - [ ] 整理一下上周的 AI 学习笔记
-- [x] 把这个 README 装饰得好看点 ✅
+- [x] 把这个 README 装饰得好看点
 - [ ] 写个自动整理文档的小脚本
 
 ---
 
 ## 📊 仓库小数据
-<!-- 不用太专业，看着好玩就行 -->
 ![仓库大小](https://img.shields.io/github/repo-size/likepythontoo/coco?style=for-the-badge&color=blueviolet)
 ![最后更新](https://img.shields.io/github/last-commit/likepythontoo/coco?style=for-the-badge&color=orange)
 ![访问量](https://views.whatilearened.today/views/github/likepythontoo/coco.svg?style=for-the-badge)
+
 ![摸鱼中](https://img.shields.io/badge/状态-摸鱼中-green?style=for-the-badge)
 ![代码能跑就行](https://img.shields.io/badge/代码-能跑就行-red?style=for-the-badge)
 ![咖啡消耗](https://img.shields.io/badge/咖啡消耗-3杯-orange?style=for-the-badge)
+
 ---
 
 ## 💬 碎碎念
