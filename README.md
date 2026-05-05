@@ -50,12 +50,29 @@
 
 ---
 
-## 📈 观看人数增长曲线
+## 📊 仓库实时统计
 <p align="center">
-  <img src="watchers-growth.svg" width="80%" alt="Watchers Growth Curve" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likepythontoo&repo=coco&theme=minimal&hide_border=true&show_owner=true" width="60%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/likepythontoo/coco?style=flat-square&color=94a3b8" alt="仓库大小" />
+  <img src="https://img.shields.io/github/last-commit/likepythontoo/coco?style=flat-square&color=84cc16" alt="最后更新" />
+  <img src="https://img.shields.io/github/watchers/likepythontoo/coco?style=flat-square&color=64748b&label=观看人数" />
+  <img src="https://img.shields.io/github/stars/likepythontoo/coco?style=flat-square&color=84cc16&label=星标数" />
+  <img src="https://img.shields.io/github/forks/likepythontoo/coco?style=flat-square&color=60a5fa&label=Fork数" />
+</p>
+
 ---
 
+## 📈 星标增长曲线
+<p align="center">
+  <a href="https://star-history.com/#likepythontoo/coco&Date">
+    <img src="https://api.star-history.com/svg?repos=likepythontoo/coco&type=Date&theme=light&color=64748b" alt="Star History" width="80%" />
+  </a>
+</p>
+
+---
 ---
 
 ## 📊 仓库实时统计
