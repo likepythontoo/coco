@@ -50,21 +50,6 @@
 
 ---
 
-## 📊 仓库实时统计
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likepythontoo&repo=coco&theme=minimal&hide_border=true&show_owner=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/likepythontoo/coco?style=flat-square&color=94a3b8" alt="仓库大小" />
-  <img src="https://img.shields.io/github/last-commit/likepythontoo/coco?style=flat-square&color=84cc16" alt="最后更新" />
-  <img src="https://img.shields.io/github/watchers/likepythontoo/coco?style=flat-square&color=64748b&label=观看人数" />
-  <img src="https://img.shields.io/github/stars/likepythontoo/coco?style=flat-square&color=84cc16&label=星标数" />
-  <img src="https://img.shields.io/github/forks/likepythontoo/coco?style=flat-square&color=60a5fa&label=Fork数" />
-</p>
-
----
-
 ## 📈 星标增长曲线
 <p align="center">
   <a href="https://star-history.com/#likepythontoo/coco&Date">
@@ -73,20 +58,7 @@
 </p>
 
 ---
----
 
-## 📊 仓库实时统计
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likepythontoo&repo=coco&theme=minimal&hide_border=true&show_owner=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/watchers/likepythontoo/coco?style=flat-square&color=64748b&label=观看人数" />
-  <img src="https://img.shields.io/github/stars/likepythontoo/coco?style=flat-square&color=84cc16&label=星标数" />
-  <img src="https://img.shields.io/github/forks/likepythontoo/coco?style=flat-square&color=60a5fa&label=Fork数" />
-</p>
-
----
 
 ## 💬 碎碎念
 > 2026.05.03：今天把仓库整理了下，终于不用在一堆文件里瞎找了！
